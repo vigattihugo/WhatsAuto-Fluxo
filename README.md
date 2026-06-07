@@ -10,6 +10,9 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-4.1-38bdf8?logo=tailwindcss)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
+<img width="1917" height="865" alt="image" src="https://github.com/user-attachments/assets/ddb5015c-bd00-4aef-9493-844834491b8f" />
+
+
 **[🚀 Demo ao Vivo](#demo) • [📚 Documentação](#arquitetura) • [🛠️ Setup](#instalação)**
 
 </div>
